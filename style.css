@@ -1,0 +1,35 @@
+#bed_room {
+    font-size: 20px;;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightpink;
+}
+
+#tv {
+    font-size: 20px;;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightblue;
+}
+
+#desk {
+    font-size: 20px;;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightpink;
+}
+
+#plants {
+    font-size: 20px;;
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: lightblue;
+}
